@@ -3,3 +3,4 @@ plotly
 pandas
 yellowbrick
 jupyter_contrib_nbextensions
+Orange3
